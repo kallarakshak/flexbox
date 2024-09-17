@@ -1,0 +1,52 @@
+.main{
+    background-color: #FFF5E4;
+    display: flex;
+    gap: 20px;
+    font-size: 18px;
+    place-items: center;
+}
+.child{
+    display: flex;
+    gap:30px;
+    margin-left: 150px;
+    place-items: center;
+}
+.parent{
+    display: flex;
+    gap: 20px;
+    place-items: center;
+}
+.child3{
+    display: flex;
+    gap:18px;
+   
+}
+.f{
+    border-radius: 20px;
+    
+}
+#b1{
+    background-color: green;
+    border-radius: 20px;
+    width: 70px;
+    height: 35px;
+    border: 2px black;
+    color: red;
+}
+#b2{
+    border-radius: 20px;
+    width: 70px;
+    height: 35px;
+    background-color: rgb(87, 222, 87);
+    border: 2px black;
+    margin-left: -30%;
+    
+}
+.footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    gap: 32px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
